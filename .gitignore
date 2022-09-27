@@ -1,0 +1,5 @@
+__pycache__
+weights/saved_model.h5
+potato_detector/python/__pycache__
+readCam.py
+README.md
